@@ -7,3 +7,7 @@ Feature:
 Scenario: Debe haber un titulo de bienvenida al juego
 	Given que inicie el juego
 	Then debo ver "Bienvenido a HangWord"
+
+Scenario: Debe haber un titulo de bienvenida al juego
+Given que inicie el juego
+Then debo ver "Bienvenido a HangWord"
